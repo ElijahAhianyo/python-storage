@@ -4,6 +4,19 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+## [2.6.0](https://github.com/googleapis/python-storage/compare/v2.5.0...v2.6.0) (2022-09-06)
+
+
+### Features
+
+* Enable delete_blobs() to preserve generation ([#840](https://github.com/googleapis/python-storage/issues/840)) ([8fd4c37](https://github.com/googleapis/python-storage/commit/8fd4c376bd5f031836feb8101c9c0c0d1c2e969d)), closes [#814](https://github.com/googleapis/python-storage/issues/814)
+
+
+### Documentation
+
+* Clarify prefixes entity in list_blobs and link sample ([#837](https://github.com/googleapis/python-storage/issues/837)) ([7101f47](https://github.com/googleapis/python-storage/commit/7101f47fde663eec4bbaaa246c7fe4e973ca2506))
+* Update docstring for lifecycle_rules to match generator behavior ([#841](https://github.com/googleapis/python-storage/issues/841)) ([36fb81b](https://github.com/googleapis/python-storage/commit/36fb81b5b0e5b7e65b9db434c997617136bfc3fc))
+
 ## [2.5.0](https://github.com/googleapis/python-storage/compare/v2.4.0...v2.5.0) (2022-07-24)
 
 
